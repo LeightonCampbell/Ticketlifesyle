@@ -47,12 +47,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Sign into osTicket as an Agent
   - We created jane.doe in previous tutorial, log in with those credentials. 
   - Select the ticket we created in Step 1.
-    - Priority: Emergency. (Mobile online banking down can lead to losses in revenue for the company. 
+    - Priority: Emergency. 
+      - Mobile online banking down can lead to losses in revenue for the company. 
     - Assigned to: Jane Doe
     - SLA Plan: SEV-A 
       - Business impacting, critical incident
     - Department: System Administrators 
-      - (Sys Admins responsible for mobile banking infrastructure)
+      - Sys Admins responsible for mobile banking infrastructure
     - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
     - Select Post Reply
 
@@ -74,7 +75,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
      
 - Once the issue is resolved, head back to the ticket and update the end user.
   - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
-  - Ticket Status: Resolved:
+  - Ticket Status: Resolved
 - Select Post Reply
 - The ticket should now be on the "closed" tab since it has been resolved.
 
