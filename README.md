@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Create Ticket
 
 <p align="center">
-<img src="https://i.imgur.com/Cxy8NM7.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/G7Ak6uI.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/UdiPc1s.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -47,28 +47,31 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Sign into osTicket as an Agent
   - We created jane.doe in previous tutorial, log in with those credentials. 
   - Select the ticket we created in Step 1.
-    - Priority: Emergency. 
+  
+  
+<p align="center">
+<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+
+ - Priority: Emergency. 
       - Mobile online banking down can lead to losses in revenue for the company. 
-    - Assigned to: Jane Doe
-    - SLA Plan: SEV-A 
+ - Assigned to: Jane Doe
+ - SLA Plan: SEV-A 
       - Business impacting, critical incident
-    - Department: System Administrators 
+ - Department: System Administrators 
       - Sys Admins responsible for mobile banking infrastructure
-    - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+ - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
     - Select Post Reply
 
 
 <p align="center">
-<img src="https://i.imgur.com/SGY8EwH.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/tSKUJHX.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
 
 - On the back end, Jane is working with the System Adminstrator team to resolve the issue. 
-
-<p align="center">
-<img src="https://i.imgur.com/Ed9wc2j.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
 
 
 <h3>Stage 4: Resolution</h3>
@@ -80,14 +83,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - The ticket should now be on the "closed" tab since it has been resolved.
 
 <p align="center">
-<img src="https://i.imgur.com/Ed9wc2j.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 
 🎉Congratulations! You have created and resolved your first ticket!🎉
   
 
-
-<p align="center">
-<img src="https://i.imgur.com/doboysy.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yM3IRWC.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
